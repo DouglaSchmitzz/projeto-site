@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body {
+    background-color: blueviolet;
+}
+
+h1 {
+    text-align: center;
+}
+
+main {
+    text-align: justify;
+}
+
+h1, h2 {
+    color: white;
+}
