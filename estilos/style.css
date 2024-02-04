@@ -4,14 +4,13 @@ body {
     background-color: blueviolet;
 }
 
-h1 {
+h1, h2 {
     text-align: center;
+    color: aliceblue;
+    text-decoration: underline;
 }
 
 main {
     text-align: justify;
 }
 
-h1, h2 {
-    color: rgb(145, 21, 21);
-}
