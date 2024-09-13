@@ -1,14 +1,14 @@
 @charset "UTF-8";
 
 body {
-    background-color: blueviolet;
+    background-color: rgba(137, 43, 226, 0.359);
 }
 
 h1, h2 {
     text-align: center;
-    color: aliceblue;
+    color: rgb(64, 83, 100);
     text-decoration: underline;
-    box-shadow: 10px 10px 10px black;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.37);
 }
 
 main {
