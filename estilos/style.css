@@ -6,12 +6,14 @@ body {
 
 h1, h2 {
     text-align: center;
+    padding-bottom: 5rem;
     color: rgb(64, 83, 100);
     text-decoration: underline;
-    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.37);
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.851);
 }
 
 main {
     text-align: justify;
+    
 }
 
